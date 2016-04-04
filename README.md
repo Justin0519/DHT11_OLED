@@ -5,7 +5,7 @@
 <ol>
 <li>Arduino board</li>
 <li>DHT11 or DHT22</li>
-<li>OLED I2C</li>
+<li>OLED 0.96" 12864 SSD1306 I2C</li>
 </ol>
 </h6>
 
